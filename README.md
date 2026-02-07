@@ -10,6 +10,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/isk-d3v/isk-d3v/output/snake.svg" alt="Snake animation" />
 
-###
