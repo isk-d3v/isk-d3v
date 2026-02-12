@@ -27,23 +27,18 @@
 
 ---
 
-<h2 align="center">🏆 Github Trophies</h2>
-<img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=TheSpeedX&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
-  width="100%" />
-<br />
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/TheSpeedX?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/TheSpeedX?tab=followers"><img align="right" src="https://img.shields.io/github/followers/TheSpeedX?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/TheSpeedX">  <img align="right" src="https://komarev.com/ghpvc/?username=TheSpeedX"></a>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/isk-d3v?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/isk-d3v?tab=followers"><img align="right" src="https://img.shields.io/github/followers/isk-d3v?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/isk-d3v">  <img align="right" src="https://komarev.com/ghpvc/?username=isk-d3v"></a>
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedX&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isk-d3v&langs_count=8&theme=react" />
 </p>
 
-<a href="https://github.com/TheSpeedX"><img alt="TheSpeedX's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=TheSpeedX&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<a href="https://github.com/isk-d3v"><img alt="isk-d3v's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=isk-d3v&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thespeedx&theme=black-ice"
-    alt="thespeedx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isk-d3v&theme=black-ice"
+    alt="isk-d3v" /></p>
 
 <br />
