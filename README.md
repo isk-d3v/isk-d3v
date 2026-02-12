@@ -29,7 +29,7 @@
 
 
 <p>
-  <img align="right"
+  <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=isk-d3v&langs_count=8&theme=react" />
 </p>
 
