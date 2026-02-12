@@ -28,8 +28,6 @@
 ---
 
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/isk-d3v?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/isk-d3v?tab=followers"><img align="right" src="https://img.shields.io/github/followers/isk-d3v?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/isk-d3v">  <img align="right" src="https://komarev.com/ghpvc/?username=isk-d3v"></a>
-
 <p>
   <img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=isk-d3v&langs_count=8&theme=react" />
