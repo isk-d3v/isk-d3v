@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://discord.com/users/">
+    <img src="https://lanyard.cnrad.dev/api/1056587676779810847?bg=0A0A0A&borderRadius=35px" />
+  </a>
+</div>
+<br />
+
 ---
 
 #                               Language
