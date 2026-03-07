@@ -7,6 +7,6 @@
 
 ---
 
-#                               Language
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,cs,lua,)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,lua&perline=5" />
+</p>
