@@ -19,5 +19,11 @@
 
 ### Contact
 
-- **Discord** : [@1duc](https://discord.com/users/1464616178562367653)
-- **Email** : [lskcontact@proton.me](mailto:lskcontact@proton.me)
+<p align="center">
+  <a href="https://discord.gg/invite/7UERd6C9TS">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="mailto:lskcontact@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
