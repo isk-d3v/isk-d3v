@@ -14,3 +14,10 @@
   <img src="https://img.shields.io/badge/C%23-2980B9?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-3498DB?style=for-the-badge&logo=lua&logoColor=white">
 </p>
+
+---
+
+### Contact
+
+- **Discord** : [@1duc](https://discord.com/users/1464616178562367653)
+- **Email** : [lskcontact@proton.me](mailto:lskcontact@proton.me)
