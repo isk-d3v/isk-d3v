@@ -8,5 +8,9 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,lua&perline=5" />
+  <img src="https://img.shields.io/badge/Python-9B59B6?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-8E44AD?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-9B59B6?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-8E44AD?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-9B59B6?style=for-the-badge&logo=lua&logoColor=white">
 </p>
