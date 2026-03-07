@@ -17,8 +17,6 @@
 
 ---
 
-### Contact
-
 <p align="center">
   <a href="https://discord.gg/invite/7UERd6C9TS">
     <img src="https://img.shields.io/badge/Discord-3498DB?style=for-the-badge&logo=discord&logoColor=white">
